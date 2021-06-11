@@ -1,0 +1,30 @@
+.flex-container {
+    background-color: whitesmoke;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.flex-child {
+    background-color: darkseagreen;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+
+}
+.flex-child-1 {
+    background-color: whitesmoke;
+    margin: 12px;
+    padding: 12px;
+    display: inline-block;
+
+} 
+.flex-child-2 {
+    margin: 30px;
+    padding: 50px;
+    display: inline-block;
+
+}
+ a {
+text-decoration: none;
+}
